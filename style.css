@@ -1,6 +1,6 @@
 :root {
   --background-primary: #f8fafd;
-  --background-secondary: #ddd;
+  --background-secondary: #dddddd;
 
   --font-primary: #252525;
   --font-secondary: ##828282;
@@ -8,8 +8,8 @@
   --primary-color: #9b51e0;
   --shadow: rgba(132, 148, 165, 0.10);
 
-  --white: #fff;
-  --black: #000;
+  --white: #ffffff;
+  --black: #000000;
 
   --critical: #eb5757;
   --warning: #f2c94c;

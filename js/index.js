@@ -11,7 +11,7 @@ function generatePassword() {
   let chars = "abcdefghjkmnpqrstuvwxyz"
 
   const upperCaseChars = "ABCDEFGHJKMNPQRSTUVXYZ"
-  const numberChars = "123456789"
+  const numberChars = "0123456789"
   const symbolChars = "?!@&*()[]"
 
   if (upperCaseCheckEl.checked) {
